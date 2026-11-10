@@ -1,0 +1,5 @@
+
+.ui-arrow{display:inline-block;width:18px;height:18px;flex:none;vertical-align:-3px;stroke:currentColor;color:inherit;transform:none!important;transition:transform .18s ease!important}
+a:hover .ui-arrow,button:hover .ui-arrow{transform:translate(2px,-2px)!important}
+.hero-cta .ui-arrow,.btn .ui-arrow{vertical-align:-4px}
+@media(max-width:600px){.ui-arrow{width:17px;height:17px}}
